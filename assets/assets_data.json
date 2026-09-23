@@ -1,0 +1,1605 @@
+{
+  "commands": {
+    "changedegreeptcrv": {
+      "title": "ChangeDegreePtCrv",
+      "page": "changedegreeptcrv.html",
+      "icon": "assets/icons/image003.png",
+      "illustrations": [
+        "assets/images/image119.png",
+        "assets/images/image120.png",
+        "assets/images/image121.png",
+        "assets/images/image122.png",
+        "assets/images/image004.png"
+      ]
+    },
+    "changedegreeptsrf": {
+      "title": "ChangeDegreePtSrf",
+      "page": "changedegreeptsrf.html",
+      "icon": "assets/icons/image003.png",
+      "illustrations": [
+        "assets/images/image123.png",
+        "assets/images/image124.png",
+        "assets/images/image125.png",
+        "assets/images/image126.png"
+      ]
+    },
+    "controlpoint2kinkcrv": {
+      "title": "ControlPoint2KinkCrv",
+      "page": "controlpoint2kinkcrv.html",
+      "icon": "assets/icons/image005.png",
+      "illustrations": [
+        "assets/images/image127.png",
+        "assets/images/image128.png",
+        "assets/images/image129.png",
+        "assets/images/image130.png",
+        "assets/images/image131.png",
+        "assets/images/image006.png"
+      ]
+    },
+    "controlpoint2kinksrf": {
+      "title": "ControlPoint2KinkSrf",
+      "page": "controlpoint2kinksrf.html",
+      "icon": "assets/icons/image136.png",
+      "illustrations": [
+        "assets/images/image132.png",
+        "assets/images/image133.png",
+        "assets/images/image134.png",
+        "assets/images/image135.png"
+      ]
+    },
+    "setptlinear": {
+      "title": "SetPtLinear",
+      "page": "setptlinear.html",
+      "icon": "assets/icons/image010.png",
+      "illustrations": [
+        "assets/images/image137.png",
+        "assets/images/image138.png",
+        "assets/images/image139.png",
+        "assets/images/image008.png"
+      ]
+    },
+    "setptlinear3d": {
+      "title": "SetPtLinear3D",
+      "page": "setptlinear3d.html",
+      "icon": "assets/icons/image010.png",
+      "illustrations": [
+        "assets/images/image140.png",
+        "assets/images/image141.png",
+        "assets/images/image142.png",
+        "assets/images/image143.png",
+        "assets/images/image144.png"
+      ]
+    },
+    "setpttocrv": {
+      "title": "SetPtToCrv",
+      "page": "setpttocrv.html",
+      "icon": "assets/icons/image007.png",
+      "illustrations": [
+        "assets/images/image145.png",
+        "assets/images/image146.png",
+        "assets/images/image147.png",
+        "assets/images/image148.png",
+        "assets/images/image149.png",
+        "assets/images/image008.png"
+      ]
+    },
+    "setpttofitplane": {
+      "title": "SetPtToFitPlane",
+      "page": "setpttofitplane.html",
+      "icon": "assets/icons/image007.png",
+      "illustrations": [
+        "assets/images/image150.png",
+        "assets/images/image151.png",
+        "assets/images/image152.png",
+        "assets/images/image153.png",
+        "assets/images/image154.png",
+        "assets/images/image155.png",
+        "assets/images/image156.png",
+        "assets/images/image157.png",
+        "assets/images/image158.png",
+        "assets/images/image008.png"
+      ]
+    },
+    "symmetriccrv": {
+      "title": "SymmetricCrv",
+      "page": "symmetriccrv.html",
+      "icon": "assets/icons/image012.png",
+      "illustrations": [
+        "assets/images/image159.png",
+        "assets/images/image160.png",
+        "assets/images/image161.png",
+        "assets/images/image162.png"
+      ]
+    },
+    "symmetricsrf": {
+      "title": "SymmetricSrf",
+      "page": "symmetricsrf.html",
+      "icon": "assets/icons/image011.png",
+      "illustrations": [
+        "assets/images/image163.png",
+        "assets/images/image164.png",
+        "assets/images/image165.png",
+        "assets/images/image166.png",
+        "assets/images/image167.png",
+        "assets/images/image168.png"
+      ]
+    },
+    "symmetricdiagonalsrf": {
+      "title": "SymmetricDiagonalSrf",
+      "page": "symmetricdiagonalsrf.html",
+      "icon": "assets/icons/image011.png",
+      "illustrations": [
+        "assets/images/image169.png",
+        "assets/images/image170.png",
+        "assets/images/image171.png"
+      ]
+    },
+    "circlesalong2crvs": {
+      "title": "CirclesAlong2Crvs",
+      "page": "circlesalong2crvs.html",
+      "icon": "assets/icons/image021.png",
+      "illustrations": [
+        "assets/images/image172.png",
+        "assets/images/image173.png",
+        "assets/images/image174.png",
+        "assets/images/image175.png"
+      ]
+    },
+    "extendmulti": {
+      "title": "ExtendMulti",
+      "page": "extendmulti.html",
+      "icon": "assets/icons/image037.png",
+      "illustrations": [
+        "assets/images/image176.png",
+        "assets/images/image177.png"
+      ]
+    },
+    "extractisocurvesdivide": {
+      "title": "ExtractIsocurvesDivide",
+      "page": "extractisocurvesdivide.html",
+      "icon": "assets/icons/image016.png",
+      "illustrations": [
+        "assets/images/image178.png",
+        "assets/images/image179.png"
+      ]
+    },
+    "farthest2ptsincrv": {
+      "title": "Farthest2PtsInCrv",
+      "page": "farthest2ptsincrv.html",
+      "icon": "assets/icons/image017.png",
+      "illustrations": [
+        "assets/images/image180.png",
+        "assets/images/image181.png"
+      ]
+    },
+    "filletcornercutting": {
+      "title": "FilletCornerCutting",
+      "page": "filletcornercutting.html",
+      "icon": "assets/icons/image018.png",
+      "illustrations": [
+        "assets/images/image182.png",
+        "assets/images/image183.png"
+      ]
+    },
+    "fitcrvlength": {
+      "title": "FitCrvLength",
+      "page": "fitcrvlength.html",
+      "icon": "assets/icons/image019.png",
+      "illustrations": [
+        "assets/images/image184.png",
+        "assets/images/image185.png",
+        "assets/images/image186.png"
+      ]
+    },
+    "flowmulti": {
+      "title": "FlowMulti",
+      "page": "flowmulti.html",
+      "icon": "assets/icons/image020.png",
+      "illustrations": [
+        "assets/images/image187.png",
+        "assets/images/image188.png",
+        "assets/images/image189.png",
+        "assets/images/image190.jpg",
+        "assets/images/image191.jpg"
+      ]
+    },
+    "fullroundcrv": {
+      "title": "FullRoundCrv",
+      "page": "fullroundcrv.html",
+      "icon": "assets/icons/image014.png",
+      "illustrations": [
+        "assets/images/image192.png",
+        "assets/images/image193.png",
+        "assets/images/image194.png"
+      ]
+    },
+    "polylinesplit2crvs": {
+      "title": "PolylineSplit2Crvs",
+      "page": "polylinesplit2crvs.html",
+      "icon": "assets/icons/image195.png",
+      "illustrations": [
+        "assets/images/image196.png",
+        "assets/images/image197.png",
+        "assets/images/image198.png",
+        "assets/images/image199.png",
+        "assets/images/image200.png",
+        "assets/images/image201.png",
+        "assets/images/image202.png",
+        "assets/images/image203.png",
+        "assets/images/image204.png"
+      ]
+    },
+    "revcloudsbysketch": {
+      "title": "RevCloudsBySketch",
+      "page": "revcloudsbysketch.html",
+      "icon": "assets/icons/image024.png",
+      "illustrations": [
+        "assets/images/image210.jpg",
+        "assets/images/image211.png",
+        "assets/images/image212.png"
+      ]
+    },
+    "rebuildcrvcountbylength": {
+      "title": "RebuildCrvCountByLength",
+      "page": "rebuildcrvcountbylength.html",
+      "icon": "assets/icons/image025.png",
+      "illustrations": [
+        "assets/images/image213.png",
+        "assets/images/image214.png",
+        "assets/images/image215.png",
+        "assets/images/image216.png",
+        "assets/images/image217.png",
+        "assets/images/image218.png"
+      ]
+    },
+    "roundedrectangle": {
+      "title": "RoundedRectangle",
+      "page": "roundedrectangle.html",
+      "icon": "assets/icons/image085.png",
+      "illustrations": [
+        "assets/images/image219.png",
+        "assets/images/image220.png",
+        "assets/images/image221.png",
+        "assets/images/image222.png"
+      ]
+    },
+    "castvectorshadow": {
+      "title": "CastVectorShadow",
+      "page": "castvectorshadow.html",
+      "icon": "assets/icons/image231.jpg",
+      "illustrations": [
+        "assets/images/image223.png",
+        "assets/images/image224.png",
+        "assets/images/image225.png",
+        "assets/images/image226.png",
+        "assets/images/image227.png",
+        "assets/images/image228.png",
+        "assets/images/image229.png",
+        "assets/images/image230.jpg",
+        "assets/images/image232.jpg"
+      ]
+    },
+    "match2curveendsbyrotate": {
+      "title": "Match2CurveEndsByRotate",
+      "page": "match2curveendsbyrotate.html",
+      "icon": "assets/icons/image028.png",
+      "illustrations": [
+        "assets/images/image233.png",
+        "assets/images/image234.png",
+        "assets/images/image235.png"
+      ]
+    },
+    "spheredeformable": {
+      "title": "SphereDeformable",
+      "page": "spheredeformable.html",
+      "icon": "assets/icons/image032.png",
+      "illustrations": [
+        "assets/images/image244.png",
+        "assets/images/image245.png",
+        "assets/images/image246.png",
+        "assets/images/image247.png"
+      ]
+    },
+    "untrimallp": {
+      "title": "UntrimAllP",
+      "page": "untrimallp.html",
+      "icon": "assets/icons/image031.png",
+      "illustrations": [
+        "assets/images/image248.png",
+        "assets/images/image249.png",
+        "assets/images/image250.png",
+        "assets/images/image247.png"
+      ]
+    },
+    "booleandifferencemulti": {
+      "title": "BooleanDifferenceMulti",
+      "page": "booleandifferencemulti.html",
+      "icon": "assets/icons/image035.png",
+      "illustrations": [
+        "assets/images/image254.png",
+        "assets/images/image255.png",
+        "assets/images/image256.png",
+        "assets/images/image257.png"
+      ]
+    },
+    "booleanunionmulti": {
+      "title": "BooleanUnionMulti",
+      "page": "booleanunionmulti.html",
+      "icon": "assets/icons/image034.png",
+      "illustrations": [
+        "assets/images/image258.png",
+        "assets/images/image259.png",
+        "assets/images/image260.png",
+        "assets/images/image261.png"
+      ]
+    },
+    "booleanunionsubsrfs": {
+      "title": "BooleanUnionSubSrfs",
+      "page": "booleanunionsubsrfs.html",
+      "icon": "assets/icons/image035.png",
+      "illustrations": [
+        "assets/images/image262.png",
+        "assets/images/image263.png",
+        "assets/images/image264.png",
+        "assets/images/image265.png"
+      ]
+    },
+    "extendextrusions": {
+      "title": "ExtendExtrusions",
+      "page": "extendextrusions.html",
+      "icon": "assets/icons/image015.png",
+      "illustrations": [
+        "assets/images/image266.png",
+        "assets/images/image267.png",
+        "assets/images/image268.png",
+        "assets/images/image269.png"
+      ]
+    },
+    "solidcutbycrv": {
+      "title": "SolidCutByCrv",
+      "page": "solidcutbycrv.html",
+      "icon": "assets/icons/image015.png",
+      "illustrations": [
+        "assets/images/image270.png",
+        "assets/images/image271.png",
+        "assets/images/image272.png"
+      ]
+    },
+    "circlecenterpoints": {
+      "title": "CircleCenterPoints",
+      "page": "circlecenterpoints.html",
+      "icon": "assets/icons/image047.png",
+      "illustrations": [
+        "assets/images/image279.png",
+        "assets/images/image280.png",
+        "assets/images/image281.jpg"
+      ]
+    },
+    "dimboundingbox": {
+      "title": "DimBoundingBox",
+      "page": "dimboundingbox.html",
+      "icon": "assets/icons/image047.png",
+      "illustrations": [
+        "assets/images/image282.png",
+        "assets/images/image283.png",
+        "assets/images/image284.png"
+      ]
+    },
+    "dotz": {
+      "title": "DotZ",
+      "page": "dotz.html",
+      "icon": "assets/icons/image047.png",
+      "illustrations": [
+        "assets/images/image286.png"
+      ]
+    },
+    "dotserial": {
+      "title": "DotSerial",
+      "page": "dotserial.html",
+      "icon": "assets/icons/image043.png",
+      "illustrations": [
+        "assets/images/image287.png",
+        "assets/images/image288.png",
+        "assets/images/image289.png"
+      ]
+    },
+    "lengthcrvs": {
+      "title": "LengthCrvs",
+      "page": "lengthcrvs.html",
+      "icon": "assets/icons/image047.png",
+      "illustrations": [
+        "assets/images/image290.png",
+        "assets/images/image291.png"
+      ]
+    },
+    "merge2lineardimensions": {
+      "title": "Merge2LinearDimensions",
+      "page": "merge2lineardimensions.html",
+      "icon": "assets/icons/image047.png",
+      "illustrations": [
+        "assets/images/image292.png",
+        "assets/images/image293.png",
+        "assets/images/image294.png",
+        "assets/images/image295.png"
+      ]
+    },
+    "minmaxdistance2crvs": {
+      "title": "MinMaxDistance2Crvs",
+      "page": "minmaxdistance2crvs.html",
+      "icon": "assets/icons/image047.png",
+      "illustrations": [
+        "assets/images/image296.png",
+        "assets/images/image297.png"
+      ]
+    },
+    "thirdanglelayout": {
+      "title": "ThirdAngleLayout",
+      "page": "thirdanglelayout.html",
+      "icon": "assets/icons/image046.png",
+      "illustrations": [
+        "assets/images/image298.png",
+        "assets/images/image299.png"
+      ]
+    },
+    "addlayouts": {
+      "title": "AddLayouts",
+      "page": "addlayouts.html",
+      "icon": "assets/icons/image048.png",
+      "illustrations": [
+        "assets/images/image300.jpg",
+        "assets/images/image301.jpg",
+        "assets/images/image302.jpg",
+        "assets/images/image303.jpg"
+      ]
+    },
+    "layoutsamescale": {
+      "title": "LayoutSameScale",
+      "page": "layoutsamescale.html",
+      "icon": "assets/icons/image049.png",
+      "illustrations": [
+        "assets/images/image304.png",
+        "assets/images/image305.png",
+        "assets/images/image306.png",
+        "assets/images/image307.jpg",
+        "assets/images/image308.jpg"
+      ]
+    },
+    "exporteachlayer": {
+      "title": "ExportEachLayer",
+      "page": "exporteachlayer.html",
+      "icon": "assets/icons/image052.png",
+      "illustrations": [
+        "assets/images/image310.jpg",
+        "assets/images/image311.jpg",
+        "assets/images/image312.png",
+        "assets/images/image313.png"
+      ]
+    },
+    "importfilesinfolder": {
+      "title": "ImportFilesinFolder",
+      "page": "importfilesinfolder.html",
+      "icon": "assets/icons/image051.png",
+      "illustrations": [
+        "assets/images/image314.png",
+        "assets/images/image315.jpg",
+        "assets/images/image316.png",
+        "assets/images/image317.png",
+        "assets/images/image312.png",
+        "assets/images/image313.png"
+      ]
+    },
+    "worksessionmerge": {
+      "title": "WorksessionMerge",
+      "page": "worksessionmerge.html",
+      "icon": "assets/icons/image056.png",
+      "illustrations": []
+    },
+    "copy2pts": {
+      "title": "Copy2Pts",
+      "page": "copy2pts.html",
+      "icon": "assets/icons/image059.png",
+      "illustrations": [
+        "assets/images/image337.jpg",
+        "assets/images/image338.jpg",
+        "assets/images/image339.jpg",
+        "assets/images/image340.jpg"
+      ]
+    },
+    "movetozlevel": {
+      "title": "MoveToZLevel",
+      "page": "movetozlevel.html",
+      "icon": "assets/icons/image060.png",
+      "illustrations": [
+        "assets/images/image341.jpg",
+        "assets/images/image342.jpg",
+        "assets/images/image343.jpg",
+        "assets/images/image061.png"
+      ]
+    },
+    "movetozpt": {
+      "title": "MoveToZPt",
+      "page": "movetozpt.html",
+      "icon": "assets/icons/image060.png",
+      "illustrations": [
+        "assets/images/image344.jpg",
+        "assets/images/image345.jpg",
+        "assets/images/image346.jpg",
+        "assets/images/image347.jpg"
+      ]
+    },
+    "orientbyface": {
+      "title": "OrientByFace",
+      "page": "orientbyface.html",
+      "icon": "assets/icons/image062.png",
+      "illustrations": [
+        "assets/images/image348.png",
+        "assets/images/image349.png",
+        "assets/images/image350.png",
+        "assets/images/image351.png",
+        "assets/images/image352.png",
+        "assets/images/image353.png"
+      ]
+    },
+    "rotate3dintersect": {
+      "title": "Rotate3DIntersect",
+      "page": "rotate3dintersect.html",
+      "icon": "assets/icons/image064.png",
+      "illustrations": [
+        "assets/images/image358.jpg",
+        "assets/images/image359.jpg",
+        "assets/images/image360.jpg",
+        "assets/images/image361.jpg"
+      ]
+    },
+    "splitplanar": {
+      "title": "SplitPlanar",
+      "page": "splitplanar.html",
+      "icon": "assets/icons/image065.png",
+      "illustrations": [
+        "assets/images/image362.png",
+        "assets/images/image363.png",
+        "assets/images/image364.png",
+        "assets/images/image365.png",
+        "assets/images/image366.png",
+        "assets/images/image367.png",
+        "assets/images/image368.png"
+      ]
+    },
+    "sublayersbygroup": {
+      "title": "SubLayersByGroup",
+      "page": "sublayersbygroup.html",
+      "icon": "assets/icons/image097.png",
+      "illustrations": [
+        "assets/images/image369.png",
+        "assets/images/image370.png",
+        "assets/images/image371.png",
+        "assets/images/image372.png",
+        "assets/images/image373.png",
+        "assets/images/image374.jpg",
+        "assets/images/image375.png",
+        "assets/images/image376.png",
+        "assets/images/image377.png"
+      ]
+    },
+    "transformobjects": {
+      "title": "TransformObjects",
+      "page": "transformobjects.html",
+      "icon": "assets/icons/image067.png",
+      "illustrations": [
+        "assets/images/image378.jpg",
+        "assets/images/image379.jpg"
+      ]
+    },
+    "trimbox": {
+      "title": "TrimBox",
+      "page": "trimbox.html",
+      "icon": "assets/icons/image068.png",
+      "illustrations": [
+        "assets/images/image380.png",
+        "assets/images/image381.png"
+      ]
+    },
+    "unrollcrv": {
+      "title": "UnrollCrv",
+      "page": "unrollcrv.html",
+      "icon": "assets/icons/image069.png",
+      "illustrations": [
+        "assets/images/image382.png",
+        "assets/images/image383.png",
+        "assets/images/image384.png"
+      ]
+    },
+    "randomize": {
+      "title": "Randomize",
+      "page": "randomize.html",
+      "icon": "assets/icons/image070.png",
+      "illustrations": [
+        "assets/images/image385.jpg",
+        "assets/images/image386.png",
+        "assets/images/image387.jpg",
+        "assets/images/image388.jpg",
+        "assets/images/image389.png",
+        "assets/images/image390.jpg",
+        "assets/images/image391.jpg",
+        "assets/images/image392.png",
+        "assets/images/image393.jpg",
+        "assets/images/image394.jpg",
+        "assets/images/image395.png",
+        "assets/images/image396.jpg"
+      ]
+    },
+    "arrowsbycrvs": {
+      "title": "ArrowsByCrvs",
+      "page": "arrowsbycrvs.html",
+      "icon": "assets/icons/image071.png",
+      "illustrations": [
+        "assets/images/image397.png",
+        "assets/images/image398.png",
+        "assets/images/image399.png",
+        "assets/images/image400.jpg",
+        "assets/images/image401.jpg",
+        "assets/images/image402.jpg"
+      ]
+    },
+    "lawngrassmesh": {
+      "title": "LawnGrassMesh",
+      "page": "lawngrassmesh.html",
+      "icon": "assets/icons/image072.png",
+      "illustrations": [
+        "assets/images/image403.jpg",
+        "assets/images/image404.jpg",
+        "assets/images/image405.jpg",
+        "assets/images/image406.jpg",
+        "assets/images/image407.png"
+      ]
+    },
+    "lookat": {
+      "title": "LookAt",
+      "page": "lookat.html",
+      "icon": "assets/icons/image080.png",
+      "illustrations": [
+        "assets/images/image408.jpg",
+        "assets/images/image409.jpg",
+        "assets/images/image410.jpg",
+        "assets/images/image411.jpg",
+        "assets/images/image076.png",
+        "assets/images/image079.png",
+        "assets/images/image081.png"
+      ]
+    },
+    "lookatinsert": {
+      "title": "LookAtInsert",
+      "page": "lookatinsert.html",
+      "icon": "assets/icons/image080.png",
+      "illustrations": [
+        "assets/images/image412.png",
+        "assets/images/image413.png",
+        "assets/images/image076.png",
+        "assets/images/image079.png",
+        "assets/images/image081.png"
+      ]
+    },
+    "lookatloaddefault": {
+      "title": "LookAtLoadDefault",
+      "page": "lookatloaddefault.html",
+      "icon": "assets/icons/image080.png",
+      "illustrations": [
+        "assets/images/image414.png",
+        "assets/images/image076.png",
+        "assets/images/image079.png",
+        "assets/images/image081.png"
+      ]
+    },
+    "lookatparallel": {
+      "title": "LookAtParallel",
+      "page": "lookatparallel.html",
+      "icon": "assets/icons/image080.png",
+      "illustrations": [
+        "assets/images/image415.jpg",
+        "assets/images/image416.jpg",
+        "assets/images/image079.png",
+        "assets/images/image081.png"
+      ]
+    },
+    "lookatprojectz": {
+      "title": "LookAtProjectZ",
+      "page": "lookatprojectz.html",
+      "icon": "assets/icons/image080.png",
+      "illustrations": [
+        "assets/images/image417.jpg",
+        "assets/images/image418.jpg",
+        "assets/images/image419.jpg",
+        "assets/images/image420.jpg",
+        "assets/images/image421.jpg",
+        "assets/images/image076.png",
+        "assets/images/image079.png",
+        "assets/images/image081.png"
+      ]
+    },
+    "lookatsel": {
+      "title": "LookAtSel",
+      "page": "lookatsel.html",
+      "icon": "assets/icons/image080.png",
+      "illustrations": [
+        "assets/images/image422.png",
+        "assets/images/image423.png",
+        "assets/images/image076.png",
+        "assets/images/image081.png"
+      ]
+    },
+    "lookatselall": {
+      "title": "LookAtSelAll",
+      "page": "lookatselall.html",
+      "icon": "assets/icons/image080.png",
+      "illustrations": [
+        "assets/images/image076.png",
+        "assets/images/image081.png"
+      ]
+    },
+    "lookatselname": {
+      "title": "LookAtSelName",
+      "page": "lookatselname.html",
+      "icon": "assets/icons/image078.png",
+      "illustrations": [
+        "assets/images/image424.png",
+        "assets/images/image076.png",
+        "assets/images/image079.png",
+        "assets/images/image081.png"
+      ]
+    },
+    "lookatsetblock": {
+      "title": "LookAtSetBlock",
+      "page": "lookatsetblock.html",
+      "icon": "assets/icons/image080.png",
+      "illustrations": [
+        "assets/images/image425.png",
+        "assets/images/image426.png",
+        "assets/images/image076.png",
+        "assets/images/image079.png"
+      ]
+    },
+    "mkbuttons": {
+      "title": "mkButtons",
+      "page": "mkbuttons.html",
+      "icon": "assets/icons/image026.png",
+      "illustrations": [
+        "assets/images/image427.png",
+        "assets/images/image428.png",
+        "assets/images/image429.png",
+        "assets/images/image430.jpg",
+        "assets/images/image431.jpg"
+      ]
+    },
+    "mkbuttonsdome": {
+      "title": "mkButtonsDome",
+      "page": "mkbuttonsdome.html",
+      "icon": "assets/icons/image026.png",
+      "illustrations": [
+        "assets/images/image432.png",
+        "assets/images/image433.png",
+        "assets/images/image434.png",
+        "assets/images/image435.jpg",
+        "assets/images/image436.png",
+        "assets/images/image437.png"
+      ]
+    },
+    "mkengrave": {
+      "title": "mkEngrave",
+      "page": "mkengrave.html",
+      "icon": "assets/icons/image026.png",
+      "illustrations": [
+        "assets/images/image438.png",
+        "assets/images/image439.png",
+        "assets/images/image440.png",
+        "assets/images/image441.png",
+        "assets/images/image442.png",
+        "assets/images/image443.png"
+      ]
+    },
+    "mkgraphics": {
+      "title": "mkGraphics",
+      "page": "mkgraphics.html",
+      "icon": "assets/icons/image026.png",
+      "illustrations": [
+        "assets/images/image444.png",
+        "assets/images/image445.png",
+        "assets/images/image446.png"
+      ]
+    },
+    "stepextrude": {
+      "title": "StepExtrude",
+      "page": "stepextrude.html",
+      "icon": "assets/icons/image086.png",
+      "illustrations": [
+        "assets/images/image447.png",
+        "assets/images/image448.png",
+        "assets/images/image449.png",
+        "assets/images/image450.png",
+        "assets/images/image451.png",
+        "assets/images/image452.jpg",
+        "assets/images/image453.jpg",
+        "assets/images/image454.jpg",
+        "assets/images/image455.jpg"
+      ]
+    },
+    "pipesmooth": {
+      "title": "PipeSmooth",
+      "page": "pipesmooth.html",
+      "icon": "assets/icons/image087.png",
+      "illustrations": [
+        "assets/images/image456.png",
+        "assets/images/image457.png",
+        "assets/images/image458.png",
+        "assets/images/image459.jpg"
+      ]
+    },
+    "extractjoinedrendermeshbygroup": {
+      "title": "ExtractJoinedRenderMeshByGroup",
+      "page": "extractjoinedrendermeshbygroup.html",
+      "icon": "assets/icons/image088.png",
+      "illustrations": [
+        "assets/images/image460.jpg",
+        "assets/images/image461.jpg"
+      ]
+    },
+    "setabsolutetolerance": {
+      "title": "SetAbsoluteTolerance",
+      "page": "setabsolutetolerance.html",
+      "icon": "assets/icons/image089.png",
+      "illustrations": [
+        "assets/images/image462.jpg"
+      ]
+    },
+    "backgroundcolor": {
+      "title": "BackGroundColor",
+      "page": "backgroundcolor.html",
+      "icon": "assets/icons/image090.png",
+      "illustrations": [
+        "assets/images/image463.jpg",
+        "assets/images/image464.jpg",
+        "assets/images/image465.jpg",
+        "assets/images/image091.png"
+      ]
+    },
+    "backgroundcolordefault": {
+      "title": "BackGroundColorDefault",
+      "page": "backgroundcolordefault.html",
+      "icon": "assets/icons/image090.png",
+      "illustrations": [
+        "assets/images/image465.jpg",
+        "assets/images/image463.jpg"
+      ]
+    },
+    "clippingplanenormal": {
+      "title": "ClippingPlaneNormal",
+      "page": "clippingplanenormal.html",
+      "icon": "assets/icons/image092.png",
+      "illustrations": [
+        "assets/images/image466.jpg",
+        "assets/images/image467.jpg",
+        "assets/images/image468.jpg"
+      ]
+    },
+    "gradientobjectcolor": {
+      "title": "GradientObjectColor",
+      "page": "gradientobjectcolor.html",
+      "icon": "assets/icons/image093.png",
+      "illustrations": [
+        "assets/images/image469.png",
+        "assets/images/image470.png",
+        "assets/images/image471.jpg"
+      ]
+    },
+    "slideforward / slidebackward": {
+      "title": "SlideForward / SlideBackward",
+      "page": "slideforward--slidebackward.html",
+      "icon": "assets/icons/image095.png",
+      "illustrations": [
+        "assets/images/image472.jpg",
+        "assets/images/image473.png",
+        "assets/images/image474.png"
+      ]
+    },
+    "objcolorasmatcolor": {
+      "title": "ObjColorAsMatColor",
+      "page": "objcolorasmatcolor.html",
+      "icon": "assets/icons/image477.png",
+      "illustrations": [
+        "assets/images/image377.png",
+        "assets/images/image476.png",
+        "assets/images/image479.png"
+      ]
+    },
+    "syncdisplaymodes": {
+      "title": "SyncDisplayModes",
+      "page": "syncdisplaymodes.html",
+      "icon": "assets/icons/image099.png",
+      "illustrations": [
+        "assets/images/image480.jpg",
+        "assets/images/image481.jpg"
+      ]
+    },
+    "layeronbyobject": {
+      "title": "LayerOnByObject",
+      "page": "layeronbyobject.html",
+      "icon": "assets/icons/image100.png",
+      "illustrations": [
+        "assets/images/image482.png",
+        "assets/images/image483.png",
+        "assets/images/image484.png"
+      ]
+    },
+    "explodedview": {
+      "title": "ExplodedView",
+      "page": "explodedview.html",
+      "icon": "assets/icons/image487.png",
+      "illustrations": [
+        "assets/images/image485.png",
+        "assets/images/image486.png"
+      ]
+    },
+    "selrandom": {
+      "title": "SelRandom",
+      "page": "selrandom.html",
+      "icon": "assets/icons/image102.png",
+      "illustrations": [
+        "assets/images/image488.png",
+        "assets/images/image489.png",
+        "assets/images/image490.png",
+        "assets/images/image491.png"
+      ]
+    },
+    "countobjects": {
+      "title": "CountObjects",
+      "page": "countobjects.html",
+      "icon": "assets/icons/image109.png",
+      "illustrations": [
+        "assets/images/image509.jpg",
+        "assets/images/image510.jpg",
+        "assets/images/image511.jpg",
+        "assets/images/image512.jpg",
+        "assets/images/image513.png"
+      ]
+    },
+    "distacebetween2faces": {
+      "title": "DistaceBetween2Faces",
+      "page": "distacebetween2faces.html",
+      "icon": "assets/icons/image110.png",
+      "illustrations": [
+        "assets/images/image514.png",
+        "assets/images/image515.png",
+        "assets/images/image516.png",
+        "assets/images/image517.png"
+      ]
+    },
+    "volumeoverlapped": {
+      "title": "VolumeOverlapped",
+      "page": "volumeoverlapped.html",
+      "icon": "assets/icons/image115.png",
+      "illustrations": [
+        "assets/images/image521.png",
+        "assets/images/image522.jpg",
+        "assets/images/image114.png",
+        "assets/images/image523.png"
+      ]
+    },
+    "weightsolid": {
+      "title": "WeightSolid",
+      "page": "weightsolid.html",
+      "icon": "assets/icons/image115.png",
+      "illustrations": [
+        "assets/images/image524.png",
+        "assets/images/image525.png",
+        "assets/images/image526.png",
+        "assets/images/image527.png",
+        "assets/images/image528.png",
+        "assets/images/image114.png"
+      ]
+    },
+    "weightoverlapped": {
+      "title": "WeightOverlapped",
+      "page": "weightoverlapped.html",
+      "icon": "assets/icons/image115.png",
+      "illustrations": [
+        "assets/images/image529.png",
+        "assets/images/image530.png",
+        "assets/images/image531.png",
+        "assets/images/image527.png",
+        "assets/images/image523.png"
+      ]
+    },
+    "weightdensity": {
+      "title": "WeightDensity",
+      "page": "weightdensity.html",
+      "icon": "assets/icons/image113.png",
+      "illustrations": [
+        "assets/images/image532.jpg",
+        "assets/images/image533.png",
+        "assets/images/image114.png",
+        "assets/images/image523.png"
+      ]
+    }
+  },
+  "icon_map": {
+    "changedegreeptcrv": {
+      "command": "ChangeDegreePtCrv",
+      "icon_file": "assets/icons/image003.png",
+      "page": "#_ChangeDegreePtCrv_1"
+    },
+    "changedegreeptsrf": {
+      "command": "ChangeDegreePtSrf",
+      "icon_file": "assets/icons/image004.png",
+      "page": "changedegreeptsrf.html"
+    },
+    "controlpoint2kinkcrv": {
+      "command": "ControlPoint2KinkCrv",
+      "icon_file": "assets/icons/image005.png",
+      "page": "controlpoint2kinkcrv.html"
+    },
+    "controlpoint2kinksrf": {
+      "command": "ControlPoint2KinkSrf",
+      "icon_file": "assets/icons/image006.png",
+      "page": "controlpoint2kinksrf.html"
+    },
+    "setptlinear": {
+      "command": "SetPtLinear",
+      "icon_file": "assets/icons/image007.png",
+      "page": "setptlinear.html"
+    },
+    "setptlinear3d": {
+      "command": "SetPtLinear3D",
+      "icon_file": "assets/icons/image008.png",
+      "page": "setptlinear3d.html"
+    },
+    "setpttocrv": {
+      "command": "SetPtToCrv",
+      "icon_file": "assets/icons/image009.png",
+      "page": "setpttocrv.html"
+    },
+    "setpttofitplane": {
+      "command": "SetPtToFitPlane",
+      "icon_file": "assets/icons/image010.png",
+      "page": "setpttofitplane.html"
+    },
+    "symmetriccrv": {
+      "command": "SymmetricCrv",
+      "icon_file": "assets/icons/image011.png",
+      "page": "symmetriccrv.html"
+    },
+    "symmetricsrf": {
+      "command": "SymmetricSrf",
+      "icon_file": "assets/icons/image012.png",
+      "page": "symmetricsrf.html"
+    },
+    "symmetricdiagonalsrf": {
+      "command": "SymmetricDiagonalSrf",
+      "icon_file": "assets/icons/image013.png",
+      "page": "symmetricdiagonalsrf.html"
+    },
+    "circlesalong2crvs": {
+      "command": "CirclesAlong2Crvs",
+      "icon_file": "assets/icons/image014.png",
+      "page": "circlesalong2crvs.html"
+    },
+    "extendmulti": {
+      "command": "ExtendMulti",
+      "icon_file": "assets/icons/image015.png",
+      "page": "extendmulti.html"
+    },
+    "extractisocurvesdivide": {
+      "command": "ExtractIsocurvesDivide",
+      "icon_file": "assets/icons/image016.png",
+      "page": "extractisocurvesdivide.html"
+    },
+    "farthest2ptsincrv": {
+      "command": "Farthest2PtsInCrv",
+      "icon_file": "assets/icons/image017.png",
+      "page": "farthest2ptsincrv.html"
+    },
+    "filletcornercutting": {
+      "command": "FilletCornerCutting",
+      "icon_file": "assets/icons/image018.png",
+      "page": "filletcornercutting.html"
+    },
+    "fitcrvlength": {
+      "command": "FitCrvLength",
+      "icon_file": "assets/icons/image019.png",
+      "page": "fitcrvlength.html"
+    },
+    "flowmulti": {
+      "command": "FlowMulti",
+      "icon_file": "assets/icons/image020.png",
+      "page": "flowmulti.html"
+    },
+    "fullroundcrv": {
+      "command": "FullRoundCrv",
+      "icon_file": "assets/icons/image021.png",
+      "page": "fullroundcrv.html"
+    },
+    "polylinesplit2crvs": {
+      "command": "PolylineSplit2Crvs",
+      "icon_file": "assets/icons/image022.png",
+      "page": "polylinesplit2crvs.html"
+    },
+    "polylinetocrv": {
+      "command": "PolylineToCrv",
+      "icon_file": "assets/icons/image023.png",
+      "page": "polylinetocrv.html"
+    },
+    "revcloudsbysketch": {
+      "command": "RevCloudsBySketch",
+      "icon_file": "assets/icons/image024.png",
+      "page": "revcloudsbysketch.html"
+    },
+    "rebuildcrvcountbylength": {
+      "command": "RebuildCrvCountByLength",
+      "icon_file": "assets/icons/image025.png",
+      "page": "rebuildcrvcountbylength.html"
+    },
+    "roundedrectangle": {
+      "command": "RoundedRectangle",
+      "icon_file": "assets/icons/image026.png",
+      "page": "roundedrectangle.html"
+    },
+    "castvectorshadow": {
+      "command": "CastVectorShadow",
+      "icon_file": "assets/icons/image027.png",
+      "page": "castvectorshadow.html"
+    },
+    "match2curveendsbyrotate": {
+      "command": "Match2CurveEndsByRotate",
+      "icon_file": "assets/icons/image028.png",
+      "page": "match2curveendsbyrotate.html"
+    },
+    "filletsmooth": {
+      "command": "FilletSmooth",
+      "icon_file": "assets/icons/image029.png",
+      "page": "filletsmooth.html"
+    },
+    "linenormaltomesh": {
+      "command": "LineNormalToMesh",
+      "icon_file": "assets/icons/image030.png",
+      "page": "linenormaltomesh.html"
+    },
+    "spheredeformable": {
+      "command": "SphereDeformable",
+      "icon_file": "assets/icons/image031.png",
+      "page": "spheredeformable.html"
+    },
+    "untrimallp": {
+      "command": "UntrimAllP",
+      "icon_file": "assets/icons/image032.png",
+      "page": "untrimallp.html"
+    },
+    "extendsrf4sides": {
+      "command": "ExtendSrf4Sides",
+      "icon_file": "assets/icons/image033.png",
+      "page": "extendsrf4sides.html"
+    },
+    "booleandifferencemulti": {
+      "command": "BooleanDifferenceMulti",
+      "icon_file": "assets/icons/image034.png",
+      "page": "booleandifferencemulti.html"
+    },
+    "booleanunionmulti": {
+      "command": "BooleanUnionMulti",
+      "icon_file": "assets/icons/image035.png",
+      "page": "booleanunionmulti.html"
+    },
+    "booleanunionsubsrfs": {
+      "command": "BooleanUnionSubSrfs",
+      "icon_file": "assets/icons/image036.png",
+      "page": "booleanunionsubsrfs.html"
+    },
+    "extendextrusions": {
+      "command": "ExtendExtrusions",
+      "icon_file": "assets/icons/image037.png",
+      "page": "extendextrusions.html"
+    },
+    "solidcutbycrv": {
+      "command": "SolidCutByCrv",
+      "icon_file": "assets/icons/image038.png",
+      "page": "solidcutbycrv.html"
+    },
+    "addcallouts": {
+      "command": "AddCallouts",
+      "icon_file": "assets/icons/image039.png",
+      "page": "addcallouts.html"
+    },
+    "circlecenterpoints": {
+      "command": "CircleCenterPoints",
+      "icon_file": "assets/icons/image040.png",
+      "page": "circlecenterpoints.html"
+    },
+    "dimboundingbox": {
+      "command": "DimBoundingBox",
+      "icon_file": "assets/icons/image041.png",
+      "page": "dimboundingbox.html"
+    },
+    "dotz": {
+      "command": "DotZ",
+      "icon_file": "assets/icons/image042.png",
+      "page": "dotz.html"
+    },
+    "dotserial": {
+      "command": "DotSerial",
+      "icon_file": "assets/icons/image043.png",
+      "page": "dotserial.html"
+    },
+    "lengthcrvs": {
+      "command": "LengthCrvs",
+      "icon_file": "assets/icons/image044.png",
+      "page": "lengthcrvs.html"
+    },
+    "merge2lineardimensions": {
+      "command": "Merge2LinearDimensions",
+      "icon_file": "assets/icons/image045.png",
+      "page": "merge2lineardimensions.html"
+    },
+    "minmaxdistance2crvs": {
+      "command": "MinMaxDistance2Crvs",
+      "icon_file": "assets/icons/image046.png",
+      "page": "minmaxdistance2crvs.html"
+    },
+    "thirdanglelayout": {
+      "command": "ThirdAngleLayout",
+      "icon_file": "assets/icons/image047.png",
+      "page": "minmaxdistance2crvs.html#_ThirdAngleLayout"
+    },
+    "addlayouts": {
+      "command": "AddLayouts",
+      "icon_file": "assets/icons/image048.png",
+      "page": "addlayouts.html"
+    },
+    "layoutsamescale": {
+      "command": "LayoutSameScale",
+      "icon_file": "assets/icons/image049.png",
+      "page": "layoutsamescale.html"
+    },
+    "textsymbols": {
+      "command": "TextSymbols",
+      "icon_file": "assets/icons/image050.png",
+      "page": "textsymbols.html"
+    },
+    "exporteachlayer": {
+      "command": "ExportEachLayer",
+      "icon_file": "assets/icons/image051.png",
+      "page": "exporteachlayer.html"
+    },
+    "importfilesinfolder": {
+      "command": "ImportFilesinFolder",
+      "icon_file": "assets/icons/image052.png",
+      "page": "importfilesinfolder.html"
+    },
+    "explodeblockinsamelayer": {
+      "command": "ExplodeBlockInSameLayer",
+      "icon_file": "assets/icons/image053.png",
+      "page": "explodeblockinsamelayer.html"
+    },
+    "mergelayers": {
+      "command": "MergeLayers",
+      "icon_file": "assets/icons/image054.png",
+      "page": "mergelayers.html"
+    },
+    "printtextcontents": {
+      "command": "PrintTextContents",
+      "icon_file": "assets/icons/image055.png",
+      "page": "printtextcontents.html"
+    },
+    "worksessionmerge": {
+      "command": "WorksessionMerge",
+      "icon_file": "assets/icons/image056.png",
+      "page": "worksessionmerge.html"
+    },
+    "alignpanel": {
+      "command": "AlignPanel",
+      "icon_file": "assets/icons/image057.png",
+      "page": "alignpanel.html"
+    },
+    "alignpanel off": {
+      "command": "AlignPanel off",
+      "icon_file": "assets/icons/image058.png",
+      "page": "alignpaneloff.html"
+    },
+    "copy2pts": {
+      "command": "Copy2pts",
+      "icon_file": "assets/icons/image059.png",
+      "page": "copy2pts.html"
+    },
+    "movetozlevel": {
+      "command": "MoveToZLevel",
+      "icon_file": "assets/icons/image060.png",
+      "page": "movetozlevel.html"
+    },
+    "movetozpt": {
+      "command": "MoveToZPt",
+      "icon_file": "assets/icons/image061.png",
+      "page": "movetozpt.html"
+    },
+    "orientbyface": {
+      "command": "OrientByFace",
+      "icon_file": "assets/icons/image062.png",
+      "page": "orientbyface.html"
+    },
+    "orientbyflatfacetoxy": {
+      "command": "OrientByFlatFaceToXY",
+      "icon_file": "assets/icons/image063.png",
+      "page": "orientbyflatfacetoxy.html"
+    },
+    "rotate3dintersect": {
+      "command": "Rotate3DIntersect",
+      "icon_file": "assets/icons/image064.png",
+      "page": "rotate3dintersect.html"
+    },
+    "splitplanar": {
+      "command": "SplitPlanar",
+      "icon_file": "assets/icons/image065.png",
+      "page": "splitplanar.html"
+    },
+    "sublayersbygroup": {
+      "command": "SubLayersByGroup",
+      "icon_file": "assets/icons/image066.png",
+      "page": "sublayersbygroup.html"
+    },
+    "transformobjects": {
+      "command": "TransformObjects",
+      "icon_file": "assets/icons/image067.png",
+      "page": "transformobjects.html"
+    },
+    "trimbox": {
+      "command": "TrimBox",
+      "icon_file": "assets/icons/image068.png",
+      "page": "trimbox.html"
+    },
+    "unrollcrv": {
+      "command": "UnrollCrv",
+      "icon_file": "assets/icons/image069.png",
+      "page": "unrollcrv.html"
+    },
+    "randomize": {
+      "command": "Randomize",
+      "icon_file": "assets/icons/image070.png",
+      "page": "randomize.html"
+    },
+    "arrowsbycrvs": {
+      "command": "ArrowsByCrvs",
+      "icon_file": "assets/icons/image071.png",
+      "page": "arrowsbycrvs.html"
+    },
+    "lawngrassmesh": {
+      "command": "LawnGrassMesh",
+      "icon_file": "assets/icons/image072.png",
+      "page": "lawngrassmesh.html"
+    },
+    "lookat": {
+      "command": "LookAt",
+      "icon_file": "assets/icons/image073.png",
+      "page": "lookat.html"
+    },
+    "lookatinsert": {
+      "command": "LookAtInsert",
+      "icon_file": "assets/icons/image074.png",
+      "page": "lookatinsert.html"
+    },
+    "lookatloaddefault": {
+      "command": "LookAtLoadDefault",
+      "icon_file": "assets/icons/image075.png",
+      "page": "lookatloaddefault.html"
+    },
+    "lookatparallel": {
+      "command": "LookAtParallel",
+      "icon_file": "assets/icons/image076.png",
+      "page": "lookatparallel.html"
+    },
+    "lookatprojectz": {
+      "command": "LookAtProjectZ",
+      "icon_file": "assets/icons/image077.png",
+      "page": "lookatprojectz.html"
+    },
+    "lookatsel": {
+      "command": "LookAtSel",
+      "icon_file": "assets/icons/image078.png",
+      "page": "lookatsel.html"
+    },
+    "lookatselall": {
+      "command": "LookAtSelAll",
+      "icon_file": "assets/icons/image079.png",
+      "page": "lookatselall.html"
+    },
+    "lookatselname": {
+      "command": "LookAtSelName",
+      "icon_file": "assets/icons/image080.png",
+      "page": "lookatselname.html"
+    },
+    "lookatsetblock": {
+      "command": "LookAtSetBlock",
+      "icon_file": "assets/icons/image081.png",
+      "page": "lookatsetblock.html"
+    },
+    "mkbuttons": {
+      "command": "mkButtons",
+      "icon_file": "assets/icons/image082.png",
+      "page": "mkbuttons.html"
+    },
+    "mkbuttonsdome": {
+      "command": "mkButtonsDome",
+      "icon_file": "assets/icons/image083.png",
+      "page": "mkbuttonsdome.html"
+    },
+    "mkengrave": {
+      "command": "mkEngrave",
+      "icon_file": "assets/icons/image084.png",
+      "page": "mkengrave.html"
+    },
+    "mkgraphics": {
+      "command": "mkGraphics",
+      "icon_file": "assets/icons/image085.png",
+      "page": "mkgraphics.html"
+    },
+    "stepextrude": {
+      "command": "StepExtrude",
+      "icon_file": "assets/icons/image086.png",
+      "page": "stepextrude.html"
+    },
+    "pipesmooth": {
+      "command": "PipeSmooth",
+      "icon_file": "assets/icons/image087.png",
+      "page": "pipesmooth.html"
+    },
+    "extractjoinedrendermeshbygroup": {
+      "command": "ExtractJoinedRenderMeshByGroup",
+      "icon_file": "assets/icons/image088.png",
+      "page": "extractjoinedrendermeshbygroup.html"
+    },
+    "setabsolutetolerance": {
+      "command": "SetAbsoluteTolerance",
+      "icon_file": "assets/icons/image089.png",
+      "page": "setabsolutetolerance.html"
+    },
+    "backgroundcolor": {
+      "command": "BackGroundColor",
+      "icon_file": "assets/icons/image090.png",
+      "page": "backgroundcolor.html"
+    },
+    "backgroundcolordefault": {
+      "command": "BackGroundColorDefault",
+      "icon_file": "assets/icons/image091.png",
+      "page": "backgroundcolordefault.html"
+    },
+    "clippingplanenormal": {
+      "command": "ClippingPlaneNormal",
+      "icon_file": "assets/icons/image092.png",
+      "page": "clippingplanenormal.html"
+    },
+    "gradientobjectcolor": {
+      "command": "GradientObjectColor",
+      "icon_file": "assets/icons/image093.png",
+      "page": "gradientobjectcolor.html"
+    },
+    "slideforward": {
+      "command": "SlideForward",
+      "icon_file": "assets/icons/image094.png",
+      "page": "slideforward--slidebackward.html"
+    },
+    "slidebackward": {
+      "command": "SlideBackward",
+      "icon_file": "assets/icons/image095.png",
+      "page": "slideforward--slidebackward.html"
+    },
+    "slidecurrent": {
+      "command": "SlideCurrent",
+      "icon_file": "assets/icons/image096.png",
+      "page": "slidecurrent.html"
+    },
+    "objcolor2matcolor": {
+      "command": "ObjColor2MatColor",
+      "icon_file": "assets/icons/image097.png",
+      "page": "objcolor2matcolor.html"
+    },
+    "objcolorasmatcolor": {
+      "command": "ObjColorAsMatColor",
+      "icon_file": "assets/icons/image098.png",
+      "page": "objcolorasmatcolor.html"
+    },
+    "syncdisplaymodes": {
+      "command": "SyncDisplayModes",
+      "icon_file": "assets/icons/image099.png",
+      "page": "syncdisplaymodes.html"
+    },
+    "layeronbyobject": {
+      "command": "LayerOnByObject",
+      "icon_file": "assets/icons/image100.png",
+      "page": "layeronbyobject.html"
+    },
+    "explodedview": {
+      "command": "ExplodedView",
+      "icon_file": "assets/icons/image101.png",
+      "page": "explodedview.html"
+    },
+    "selrandom": {
+      "command": "SelRandom",
+      "icon_file": "assets/icons/image102.png",
+      "page": "selrandom.html"
+    },
+    "fullscreennotitlemax": {
+      "command": "FullscreenNoTitleMax",
+      "icon_file": "assets/icons/image103.png",
+      "page": "fullscreennotitlemax.html"
+    },
+    "objectcolor": {
+      "command": "ObjectColor",
+      "icon_file": "assets/icons/image104.png",
+      "page": "fullscreennotitlemax.html"
+    },
+    "objectcolorfromlayer": {
+      "command": "ObjectColorFromLayer",
+      "icon_file": "assets/icons/image105.png",
+      "page": "objectcolorfromlayer.html"
+    },
+    "randomizelayersmaterialcolor": {
+      "command": "RandomizeLayersMaterialColor",
+      "icon_file": "assets/icons/image106.png",
+      "page": "randomizelayersmaterialcolor.html"
+    },
+    "selsamedots": {
+      "command": "SelSameDots",
+      "icon_file": "assets/icons/image107.png",
+      "page": "selsamedots.html"
+    },
+    "seldotsbycontent": {
+      "command": "SelDotsByContent",
+      "icon_file": "assets/icons/image108.png",
+      "page": "seldotsbycontent.html"
+    },
+    "countobjects": {
+      "command": "CountObjects",
+      "icon_file": "assets/icons/image109.png",
+      "page": "countobjects.html"
+    },
+    "distacebetween2faces": {
+      "command": "DistaceBetween2Faces",
+      "icon_file": "assets/icons/image110.png",
+      "page": "distacebetween2faces.html"
+    },
+    "distancept2objs": {
+      "command": "DistancePt2Objs",
+      "icon_file": "assets/icons/image111.png",
+      "page": "distancept2objs.html"
+    },
+    "volumeoverlapped": {
+      "command": "VolumeOverlapped",
+      "icon_file": "assets/icons/image112.png",
+      "page": "volumeoverlapped.html"
+    },
+    "weightsolid": {
+      "command": "WeightSolid",
+      "icon_file": "assets/icons/image113.png",
+      "page": "weightsolid.html"
+    },
+    "weightoverlapped": {
+      "command": "WeightOverlapped",
+      "icon_file": "assets/icons/image114.png",
+      "page": "weightoverlapped.html"
+    },
+    "weightdensity": {
+      "command": "WeightDensity",
+      "icon_file": "assets/icons/image115.png",
+      "page": "weightdensity.html"
+    },
+    "setdensity": {
+      "command": "SetDensity",
+      "icon_file": "assets/icons/image116.png",
+      "page": "setdensity.html"
+    },
+    "byrhinogadgethelp": {
+      "command": "byRhinoGadgetHelp",
+      "icon_file": "assets/icons/image117.png",
+      "page": "byrhinogadgethelp.html"
+    },
+    "byrhinohome": {
+      "command": "byRhinoHome",
+      "icon_file": "assets/icons/image118.png",
+      "page": "byrhinohome.html"
+    }
+  }
+}

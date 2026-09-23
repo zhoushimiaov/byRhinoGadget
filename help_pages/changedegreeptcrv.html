@@ -1,0 +1,115 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- saved from url=(0014)about:internet -->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<head>
+<title>ChangeDegreePtCrv</title>
+
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=Generator content="Softany WordToHelp">
+<meta http-equiv="X-UA-Compatible" content="IE=8">
+<link href="doc_style.css" rel="stylesheet" type="text/css">
+<LINK rel=stylesheet type=text/css href="winchm_template_style.css">
+
+</head>
+<BODY><script language="JavaScript" type="text/JavaScript">
+function syn(){
+if(parent.nav.tree){
+ if(parent.nav.tree.loaded){
+  parent.nav.tree.selectNode(3);
+ }else{
+  setTimeout("syn()",500);
+}
+  }else{
+  setTimeout("syn()",500);
+  }}
+if(parent!=self){
+  setTimeout("syn()",100);
+}else{
+  parent.location.href = "../index.html?page=changedegreeptcrv.html";
+}
+originalOnload = window.onload;
+if(originalOnload==null){
+window.onload = function(){parent.contentLoaded = true;};
+}else{
+window.onload = function(){originalOnload();parent.contentLoaded = true;};
+}
+</script> 
+
+<div id="winchm_template_button"><A href="command-list.html" title="Previous"><img id="winchm_template_prev" alt="Previous" src="btn_prev_n.gif" border="0"></a><A href="changedegreeptsrf.html" title="Next"><img id="winchm_template_next" alt="Next" src="btn_next_n.gif" border="0"></a></div>
+<div id="winchm_template_navigation">Help &gt; <a href="changedegreeptcrv.html">Point Edit</a> &gt; ChangeDegreePtCrv</div>
+<div id="winchm_template_title">ChangeDegreePtCrv</div>
+<div id="winchm_template_content">
+
+<div class=MsoNormal align=center style='text-align:center'><span lang=EN-US>
+
+<hr size=2 width="100%" align=center>
+
+</span></div>
+
+<p class=Body><span lang=EN-US><img border=0 width=43 height=43 src="doc.files/image003.png">&nbsp;</span><b><span lang=EN-US>ChangeDegreePtCrv</span></b><span
+lang=EN-US> : </span>커브의 제어점 위치를 유지하면서 차수를 변경합니다<span lang=EN-US>.</span></p>
+
+<p class=SubTitle><span lang=EN-US style='color:black'>Steps</span></p>
+
+<p class=Steps><span lang=EN-US style='font-family:나눔스퀘어'>1.<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><b><span lang=EN-US>ChangeDegreePtCrv</span></b><span
+lang=EN-US> </span>실행</p>
+
+<p class=Steps><span lang=EN-US style='font-family:나눔스퀘어'>2.<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span>대상 커브 선택</p>
+
+<p class=Steps><span lang=EN-US style='font-family:나눔스퀘어'>3.<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span>변경할 차수 입력</p>
+
+<p class=Body><span lang=EN-US>&nbsp;</span></p>
+
+<p class=image><span lang=EN-US><img border=0 width=300 height=300 src="doc.files/image119.png">&nbsp;<img border=0 width=300 height=300 src="doc.files/image120.png"></span></p>
+
+<p class=SubTitle><span lang=EN-US style='color:black'>Option</span></p>
+
+<p class=Note><span lang=EN-US style='font-family:나눔스퀘어'>▷<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><b><span lang=EN-US>Midpoint</span></b><span
+lang=EN-US><br>
+</span>기존 제어점 사이에 새로운 제어점 추가</p>
+
+<p class=SubTitle><span lang=EN-US style='color:black'>Note</span></p>
+
+<p class=Note><span lang=EN-US style='font-family:나눔스퀘어'>▷<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span lang=EN-US>Knot</span>에서의
+연속성이 차수에 따라 차이가 발생합니다<span lang=EN-US>. </span>예를 들어<span lang=EN-US> Degree=2</span>인
+커브의<span lang=EN-US> Knot</span>에서는<span lang=EN-US> G1(Tangency)</span>의 연속을 갖고<span
+lang=EN-US> 3</span>인 경우<span lang=EN-US> G2</span>의 연속을 갖습니다<span lang=EN-US>.
+CurvatureGraph </span>명령으로 커브의 곡률 분포를 확인할 수 있습니다<span lang=EN-US>.</span></p>
+
+<p class=Note><span lang=EN-US style='font-family:나눔스퀘어'>▷<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span>낮은 차수의 커브를 높은 차수로 변경하는데<span
+lang=EN-US>, </span>기존 커브 제어점의 위치를 그대로 활용하고자 할 때 사용합니다<span lang=EN-US>.</span></p>
+
+<p class=Note><span lang=EN-US style='font-family:나눔스퀘어'>▷<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span>낮은 차수의 커브는 편집하기는 쉬우나<span
+lang=EN-US> Knot</span>에서의 연속성은 낮아 높은 차수로 변경하는 경우가 있는데<span lang=EN-US>, </span>처음
+형상 편집 시 낮은 차수<span lang=EN-US>(</span>예<span lang=EN-US>: 3</span>차수<span
+lang=EN-US>) </span>커브를 사용하여 빠르게 형상을 그리고 본 명령을 이용하여<span lang=EN-US> 4, 5, 6 </span>등의
+높은 차수 커브로 변경하면 형상을 유사하게 유지하면서 높은 연속성을 갖는 커브를 생성할 수 있습니다<span lang=EN-US>.</span></p>
+
+<p class=Note><span lang=EN-US style='font-family:나눔스퀘어'>▷<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span>제어점의 위치가 동일하고<span
+lang=EN-US> Uniform</span>인 커브로 변경되기에 커브의 형상이 달라집니다<span lang=EN-US>. </span>동일한
+형상에서 차수를 높일 때는<span lang=EN-US> ChangeDegree</span>명령을 사용하세요<span lang=EN-US>.</span></p>
+
+<p class=SubTitle><span lang=EN-US style='color:black'>Example</span></p>
+
+<p class=Note style='margin-left:0cm;text-indent:0cm'><span lang=EN-US><img border=0 width=300 height=300 src="doc.files/image121.png">&nbsp;<img border=0 width=300 height=300 src="doc.files/image122.png"></span></p>
+
+<p class=SubTitle><span lang=EN-US style='color:black'>See Also</span></p>
+
+<p class=SeeAlso><span lang=EN-US><img border=0 width=50 height=43 src="doc.files/image004.png">&nbsp;<a href="changedegreeptsrf.html">ChangeDegreePtSrf</a>
+- </span>서피스 제어점의 위치를 그대로 유지하면서 서피스의 차수를 변경합니다<span lang=EN-US>.</span></p>
+
+<p class=SeeAlso style='margin-left:0cm'><b><span lang=EN-US>&nbsp;</span></b></p>
+
+</div> 
+<div id="winchm_template_footer">&copy; 2023 PlusPlastic. All rights reserved.</div>
+</BODY>
+</HTML>

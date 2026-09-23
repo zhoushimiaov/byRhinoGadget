@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+venv/
+.venv/
+
+# Temporary / Scratch
+scratch/
+*.tmp
+*.log
+
+# OS metadata
+.DS_Store
+Thumbs.db
