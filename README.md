@@ -11,15 +11,51 @@
 
 [**📖 阅读 / 下载最新版橙皮书（PDF）**](./byRhinoGadget_Orange_Book_v2.pdf)　·　[**下载 HTML 阅读版**](./byRhinoGadget_Orange_Book_v2.html)　·　[插件官方网站](https://www.byrhino3d.com/)
 
-[![byRhino Gadget 橙皮书封面预览](./cover_preview.png)](./byRhinoGadget_Orange_Book_v2.pdf)
+## 页面预览 · Preview
 
-## 内页预览 · Inside the book
+**Rhino 效率外挂 · 10 个核心功能**
 
-清晰的命令分组、操作步骤、参数解释与图解示例。点击图片可阅读完整手册。
+从 **116 条命令** 中选出 10 个影响建模效率的功能，以原版图解、适用场景和一句核心判断，编排成 **12 页功能精选**。这是 145 页《橙皮书》的延伸阅读，而非完整版手册。
 
-[![byRhino Gadget 命令图解预览](./cmd_preview.png)](./byRhinoGadget_Orange_Book_v2.pdf)
+<p align="center">
+  <a href="./previews/261027/01-cover.png"><img src="./previews/261027/01-cover.png" alt="Rhino 效率外挂：10 个核心功能，12 页功能精选封面" width="500"></a>
+</p>
+<p align="center"><sub>封面 · 点击图片查看原尺寸</sub></p>
 
-> 更多内页图片以完整 PDF 为准；本仓库主要提供成品文档，不附带制作与编译过程文件。
+### 精选内页 · Selected pages
+
+<table>
+  <tr>
+    <td width="50%" align="center"><a href="./previews/261027/04-filletsmooth.png"><img src="./previews/261027/04-filletsmooth.png" alt="02 G2，让高光不断 · FilletSmooth" width="350"></a><br><sub>02 G2，让高光不断 · FilletSmooth</sub></td>
+    <td width="50%" align="center"><a href="./previews/261027/06-flowmulti.png"><img src="./previews/261027/06-flowmulti.png" alt="04 一条纹理，流到所有曲面 · FlowMulti" width="350"></a><br><sub>04 一条纹理，流到所有曲面 · FlowMulti</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><a href="./previews/261027/09-mkbuttons.png"><img src="./previews/261027/09-mkbuttons.png" alt="07 产品感，都在 0.2 mm 里 · mkButtons" width="350"></a><br><sub>07 产品感，都在 0.2 mm 里 · mkButtons</sub></td>
+    <td width="50%" align="center"><a href="./previews/261027/12-annotation-output.png"><img src="./previews/261027/12-annotation-output.png" alt="10 出图，是交付的另一半 · DimBoundingBox" width="350"></a><br><sub>10 出图，是交付的另一半 · DimBoundingBox</sub></td>
+  </tr>
+</table>
+
+<details>
+<summary><strong>查看完整 12 页预览目录（含 10 个功能页）</strong></summary>
+
+- [封面 · Rhino 效率外挂](./previews/261027/01-cover.png)
+- [目录 · 10 个核心功能](./previews/261027/02-index.png)
+- [01 对称，不是镜像 · SymmetricCrv](./previews/261027/03-symmetriccrv.png)
+- [02 G2，让高光不断 · FilletSmooth](./previews/261027/04-filletsmooth.png)
+- [03 一次延伸，而不是二十次 · ExtendMulti](./previews/261027/05-extendmulti.png)
+- [04 一条纹理，流到所有曲面 · FlowMulti](./previews/261027/06-flowmulti.png)
+- [05 布尔失败，不再全部重来 · BooleanDifferenceMulti](./previews/261027/07-booleandifferencemulti.png)
+- [06 胶囊形，是最快的产品边界 · RoundedRectangle](./previews/261027/08-roundedrectangle.png)
+- [07 产品感，都在 0.2 mm 里 · mkButtons](./previews/261027/09-mkbuttons.png)
+- [08 等高线，直接长成台阶 · StepExtrude](./previews/261027/10-stepextrude.png)
+- [09 变径，不要硬接 · PipeSmooth](./previews/261027/11-pipesmooth.png)
+- [10 出图，是交付的另一半 · DimBoundingBox](./previews/261027/12-annotation-output.png)
+
+</details>
+
+[**查看 145 页完整版《橙皮书》PDF**](./byRhinoGadget_Orange_Book_v2.pdf) · [HTML 阅读版](./byRhinoGadget_Orange_Book_v2.html)
+
+---
 
 ## 获取手册 · Downloads
 
