@@ -1,18 +1,26 @@
-# Python cache
-__pycache__/
+# Public documentation release — exclude build sources / intermediates
+*.py
 *.py[cod]
+*.ipynb
+__pycache__/
 *$py.class
+help_pages/
+assets/assets_data.json
+typography-aesthetics-guide*.md
+byRhinoGadget橙皮书.md
 
-# Environment
+# Virtual environments and local configuration
 .env
+.env.*
 venv/
 .venv/
 
-# Temporary / Scratch
+# Local scratch / caches
 scratch/
+tmp/
+temp/
 *.tmp
 *.log
-
-# OS metadata
+*.bak
 .DS_Store
 Thumbs.db
